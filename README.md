@@ -1,4 +1,4 @@
-# aegis-groupe1
+# aegis-groupe1 test
 Projet SSI BTC1 IPSSI 2026 - Infrastructure sécurisée PME TechSud
 cat > README.md << 'EOF'
 # AEGIS — Projet Sécurité des SI · BTC1 IPSSI 2026
