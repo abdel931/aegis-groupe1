@@ -1,0 +1,12 @@
+port,service,statut,risque
+21,FTP,fermé,—
+22,SSH,fermé,—
+23,Telnet,fermé,—
+25,SMTP,fermé,—
+80,HTTP,fermé,—
+443,HTTPS,fermé,—
+445,SMB,OUVERT ⚠️,CRITIQUE — SMB exposé
+3306,MariaDB,fermé,—
+3389,RDP,fermé,—
+5001,Synology DSM,fermé,—
+8080,HTTP alternatif,fermé,—
