@@ -1,0 +1,68 @@
+[
+    {
+        "port": 21,
+        "service": "FTP",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 22,
+        "service": "SSH",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 23,
+        "service": "Telnet",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 25,
+        "service": "SMTP",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 80,
+        "service": "HTTP",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 443,
+        "service": "HTTPS",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 445,
+        "service": "SMB",
+        "statut": "OUVERT ⚠️",
+        "risque": "CRITIQUE — SMB exposé"
+    },
+    {
+        "port": 3306,
+        "service": "MariaDB",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 3389,
+        "service": "RDP",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 5001,
+        "service": "Synology DSM",
+        "statut": "fermé",
+        "risque": "—"
+    },
+    {
+        "port": 8080,
+        "service": "HTTP alternatif",
+        "statut": "fermé",
+        "risque": "—"
+    }
+]
